@@ -1,6 +1,6 @@
 # Intern_Project
 =======
-move the script to the apprioate adress brfore using
+move the script to the apprioate address brfore using
 
 auto_pkl_processing.py & pkl_to_csv.py
 automatically convert pkl to csv multiple times
