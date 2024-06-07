@@ -3,3 +3,4 @@ The project's name is RF motion recognition with CV-assisted learning. This proj
 ## Data Collection
 Two parts of data are collected. The first part is RF signal data, which is in the form of Doppler-time Plot. It can detect subtle movements and characterize the unique motion signatures of the micro-scale movements of moving people. The second part is the data used for CV models to identify the actions performed which requires the use of camera.
 ## Data Preprocessing
+All data preprocessing scripts are included in the general scripts. The data preprocessing of the RF signals data involving the transform of the data into csv files
